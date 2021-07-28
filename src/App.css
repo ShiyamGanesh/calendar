@@ -1,0 +1,21 @@
+.table {
+  margin: 0;
+}
+.container button {
+  padding: 10px;
+  margin: 5px;
+}
+
+.Container {
+  padding-left: 20px;
+}
+
+.today {
+  background-color: #1974d2;
+  color: #fff;
+}
+
+.in-prev-month,
+.in-next-month {
+  opacity: 0.5;
+}

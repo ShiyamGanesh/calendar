@@ -1,0 +1,8 @@
+{
+  "short_name": "Calendar React App",
+  "name": "Calendar",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
